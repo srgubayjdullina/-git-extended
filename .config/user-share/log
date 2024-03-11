@@ -1,0 +1,4 @@
+[Tue Mar 05 10:48:33.691135 2024] [mpm_prefork:notice] [pid 3219:tid 3219] AH00163: Apache/2.4.58 (Fedora Linux) configured -- resuming normal operations
+[Tue Mar 05 10:48:33.691230 2024] [core:notice] [pid 3219:tid 3219] AH00094: Command line: '/usr/sbin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 39433'
+[Mon Mar 11 16:12:00.876573 2024] [mpm_prefork:notice] [pid 3144:tid 3144] AH00163: Apache/2.4.58 (Fedora Linux) configured -- resuming normal operations
+[Mon Mar 11 16:12:00.930410 2024] [core:notice] [pid 3144:tid 3144] AH00094: Command line: '/usr/sbin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 45813'

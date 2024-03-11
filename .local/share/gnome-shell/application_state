@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" score="4" last-seen="1709915543"/>
+    <application id="org.gnome.Nautilus.desktop" score="199" last-seen="1710168984"/>
+    <application id="org.gnome.TextEditor.desktop" score="235" last-seen="1709915910"/>
+    <application id="org.gnome.Evince.desktop" score="0" last-seen="1709913177"/>
+    <application id="org.gnome.Terminal.desktop" score="20984" last-seen="1710168868"/>
+    <application id="org.gnome.Loupe.desktop" score="24" last-seen="1709633927"/>
+    <application id="org.gnome.gedit.desktop" score="495.5" last-seen="1709913073"/>
+  </context>
+</application-state>

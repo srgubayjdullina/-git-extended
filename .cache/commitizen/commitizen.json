@@ -1,0 +1,13 @@
+{
+  "/home/srgubayjdullina": {
+    "template": "feat: git-extended",
+    "options": {
+      "args": [],
+      "disableAppendPaths": true,
+      "emitData": true,
+      "quiet": false,
+      "retryLastCommit": false,
+      "hookMode": false
+    }
+  }
+}

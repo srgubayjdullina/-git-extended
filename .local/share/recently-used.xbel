@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-04%2020-13-54.png" added="2024-03-05T07:55:00.291094Z" modified="2024-03-05T07:55:01.264365Z" visited="2024-03-05T07:55:00.291095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2024-03-05T07:55:00.291098Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T07:55:01.264363Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-04%2021-39-50.png" added="2024-03-05T07:55:32.271140Z" modified="2024-03-05T07:55:33.420473Z" visited="2024-03-05T07:55:32.271141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2024-03-05T07:55:32.271144Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T07:55:33.420470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024" added="2024-03-05T08:02:48.493233Z" modified="2024-03-05T08:02:48.493239Z" visited="2024-03-05T08:02:48.493233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T08:02:48.493236Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro" added="2024-03-05T08:04:05.698322Z" modified="2024-03-05T08:04:05.698327Z" visited="2024-03-05T08:04:05.698322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T08:04:05.698324Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04" added="2024-03-05T08:04:38.767479Z" modified="2024-03-05T08:04:38.767486Z" visited="2024-03-05T08:04:38.767480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T08:04:38.767482Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image" added="2024-03-05T08:05:04.666083Z" modified="2024-03-05T08:05:04.666089Z" visited="2024-03-05T08:05:04.666084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T08:05:04.666086Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs" added="2024-03-05T08:06:06.033095Z" modified="2024-03-05T08:06:06.033101Z" visited="2024-03-05T08:06:06.033095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T08:06:06.033097Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/presentation" added="2024-03-05T08:06:53.404265Z" modified="2024-03-05T08:07:39.192383Z" visited="2024-03-05T08:06:53.404266Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T08:07:39.192381Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/presentation/image" added="2024-03-05T08:08:13.249097Z" modified="2024-03-05T08:08:53.571585Z" visited="2024-03-05T08:08:13.249098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-05T08:08:53.571582Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/a.png" added="2024-03-05T08:12:48.589140Z" modified="2024-03-05T09:33:50.737012Z" visited="2024-03-05T08:12:48.589141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2024-03-05T08:12:48.589144Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:33:50.737010Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/report.md" added="2024-03-05T08:52:49.291255Z" modified="2024-03-05T10:17:11.631078Z" visited="2024-03-05T08:52:49.291255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-03-05T10:17:11.631075Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/1.png" added="2024-03-05T09:05:27.892200Z" modified="2024-03-05T09:07:46.082764Z" visited="2024-03-05T09:05:27.892201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2024-03-05T09:05:27.892203Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:07:46.082763Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/3.png" added="2024-03-05T09:10:01.412598Z" modified="2024-03-05T09:10:01.412601Z" visited="2024-03-05T09:10:01.412599Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:10:01.412600Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/4.png" added="2024-03-05T09:13:32.872212Z" modified="2024-03-05T09:15:17.757224Z" visited="2024-03-05T09:13:32.872214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:15:17.757221Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/6.png" added="2024-03-05T09:18:43.371105Z" modified="2024-03-05T09:18:43.371111Z" visited="2024-03-05T09:18:43.371107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:18:43.371108Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/7.png" added="2024-03-05T09:21:03.701669Z" modified="2024-03-05T09:21:03.701678Z" visited="2024-03-05T09:21:03.701671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:21:03.701673Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/8.png" added="2024-03-05T09:21:16.941550Z" modified="2024-03-05T09:21:16.941556Z" visited="2024-03-05T09:21:16.941551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:21:16.941553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/9.png" added="2024-03-05T09:22:51.404008Z" modified="2024-03-05T09:22:51.404012Z" visited="2024-03-05T09:22:51.404010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:22:51.404011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/gitextended.png" added="2024-03-05T09:24:44.189943Z" modified="2024-03-05T09:24:44.189948Z" visited="2024-03-05T09:24:44.189945Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:24:44.189946Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/d.png" added="2024-03-05T09:37:56.787156Z" modified="2024-03-05T09:37:56.787160Z" visited="2024-03-05T09:37:56.787157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:37:56.787157Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/e.png" added="2024-03-05T09:38:59.852851Z" modified="2024-03-05T09:38:59.852855Z" visited="2024-03-05T09:38:59.852852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:38:59.852853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/f.png" added="2024-03-05T09:41:24.129797Z" modified="2024-03-05T09:41:24.129801Z" visited="2024-03-05T09:41:24.129798Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:41:24.129799Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/g.png" added="2024-03-05T09:43:40.287217Z" modified="2024-03-05T09:43:40.287222Z" visited="2024-03-05T09:43:40.287218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:43:40.287219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/h.png" added="2024-03-05T09:45:43.597856Z" modified="2024-03-05T09:45:43.597860Z" visited="2024-03-05T09:45:43.597857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:45:43.597858Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/i.png" added="2024-03-05T09:46:37.299664Z" modified="2024-03-05T09:46:37.299670Z" visited="2024-03-05T09:46:37.299665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2024-03-05T09:46:37.299668Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/j.png" added="2024-03-05T09:49:14.907232Z" modified="2024-03-05T09:49:14.907236Z" visited="2024-03-05T09:49:14.907233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:49:14.907234Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/k.png" added="2024-03-05T09:50:06.198878Z" modified="2024-03-05T09:50:06.198882Z" visited="2024-03-05T09:50:06.198879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:50:06.198880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/l.png" added="2024-03-05T09:51:49.537343Z" modified="2024-03-05T09:58:03.294281Z" visited="2024-03-05T09:51:49.537344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:58:03.294277Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/p.png" added="2024-03-05T09:57:09.664078Z" modified="2024-03-05T09:59:04.351890Z" visited="2024-03-05T09:57:09.664079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T09:59:04.351886Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/q.png" added="2024-03-05T09:59:34.322597Z" modified="2024-03-05T10:03:14.841573Z" visited="2024-03-05T09:59:34.322598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T10:03:14.841571Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/r.png" added="2024-03-05T10:05:49.754809Z" modified="2024-03-05T10:05:49.754814Z" visited="2024-03-05T10:05:49.754810Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T10:05:49.754812Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/s.png" added="2024-03-05T10:06:52.235758Z" modified="2024-03-05T10:06:52.235761Z" visited="2024-03-05T10:06:52.235759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T10:06:52.235760Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/t.png" added="2024-03-05T10:08:05.334954Z" modified="2024-03-05T10:08:05.334957Z" visited="2024-03-05T10:08:05.334955Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T10:08:05.334956Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/image/u.png" added="2024-03-05T10:09:45.617672Z" modified="2024-03-05T10:09:45.617676Z" visited="2024-03-05T10:09:45.617673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-03-05T10:09:45.617674Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/Makefile" added="2024-03-05T10:13:22.167360Z" modified="2024-03-05T10:13:32.144437Z" visited="2024-03-05T10:13:22.167362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-03-05T10:13:32.144434Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/presentation/presentation.md" added="2024-03-08T15:18:32.808206Z" modified="2024-03-08T15:55:27.441650Z" visited="2024-03-08T15:18:32.808206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-03-08T15:51:07.763366Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-03-08T15:55:27.441647Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/%D0%9B_04_%D0%93%D1%83%D0%B1%D0%B0%D0%B9%D0%B4%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0_%D0%BE%D1%82%D1%87%D0%B5%D1%82.pdf" added="2024-03-08T15:19:35.641989Z" modified="2024-03-08T15:19:36.147760Z" visited="2024-03-08T15:19:35.641990Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2024-03-08T15:19:35.641992Z" count="1"/>
+          <bookmark:application name="Просмотр документов" exec="&apos;evince %u&apos;" modified="2024-03-08T15:19:36.147758Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/report/%D0%9B_04_%D0%93%D1%83%D0%B1%D0%B0%D0%B9%D0%B4%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0_%D0%BE%D1%82%D1%87%D0%B5%D1%82.md" added="2024-03-08T15:19:44.781519Z" modified="2024-03-08T15:19:44.781525Z" visited="2024-03-08T15:19:44.781520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-03-08T15:19:44.781523Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/presentation/presentation.pdf" added="2024-03-08T15:52:51.857051Z" modified="2024-03-08T15:52:52.934624Z" visited="2024-03-08T15:52:51.857075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2024-03-08T15:52:51.857080Z" count="1"/>
+          <bookmark:application name="Просмотр документов" exec="&apos;evince %u&apos;" modified="2024-03-08T15:52:52.934619Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/presentation/Makefile" added="2024-03-08T15:53:00.664278Z" modified="2024-03-08T16:28:17.701548Z" visited="2024-03-08T15:53:00.664281Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-03-08T16:28:17.701545Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/presentation/presentation.html" added="2024-03-08T15:55:22.953268Z" modified="2024-03-08T15:55:22.953273Z" visited="2024-03-08T15:55:22.953269Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;firefox %u&apos;" modified="2024-03-08T15:55:22.953271Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/presentation/%D0%9B_04_%D0%93%D1%83%D0%B1%D0%B0%D0%B9%D0%B4%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.html" added="2024-03-08T16:31:55.082452Z" modified="2024-03-08T16:31:55.082459Z" visited="2024-03-08T16:31:55.082454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;firefox %u&apos;" modified="2024-03-08T16:31:55.082456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/work/study/2023-2024/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/os-intro/labs/lab04/presentation/%D0%9B_04_%D0%93%D1%83%D0%B1%D0%B0%D0%B9%D0%B4%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.md" added="2024-03-08T16:38:28.950737Z" modified="2024-03-08T16:38:28.950760Z" visited="2024-03-08T16:38:28.950753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-03-08T16:38:28.950756Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-19-06.png" added="2024-03-11T13:19:06.118116Z" modified="2024-03-11T13:19:06.118119Z" visited="2024-03-11T13:19:06.118116Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:19:06.118117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-19-40.png" added="2024-03-11T13:19:40.097016Z" modified="2024-03-11T13:19:40.097019Z" visited="2024-03-11T13:19:40.097017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:19:40.097017Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-20-09.png" added="2024-03-11T13:20:09.502797Z" modified="2024-03-11T13:20:09.502800Z" visited="2024-03-11T13:20:09.502798Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:20:09.502798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-21-14.png" added="2024-03-11T13:21:14.570273Z" modified="2024-03-11T13:21:14.570276Z" visited="2024-03-11T13:21:14.570274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:21:14.570274Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-21-33.png" added="2024-03-11T13:21:33.655344Z" modified="2024-03-11T13:21:33.655348Z" visited="2024-03-11T13:21:33.655346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:21:33.655346Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-22-33.png" added="2024-03-11T13:22:33.303271Z" modified="2024-03-11T13:22:33.303274Z" visited="2024-03-11T13:22:33.303272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:22:33.303272Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-24-00.png" added="2024-03-11T13:24:00.777239Z" modified="2024-03-11T13:24:00.777243Z" visited="2024-03-11T13:24:00.777240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:24:00.777241Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-26-56.png" added="2024-03-11T13:26:56.908649Z" modified="2024-03-11T13:26:56.908657Z" visited="2024-03-11T13:26:56.908653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:26:56.908653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-27-09.png" added="2024-03-11T13:27:09.422706Z" modified="2024-03-11T13:27:09.422711Z" visited="2024-03-11T13:27:09.422708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:27:09.422709Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-30-32.png" added="2024-03-11T13:30:32.800629Z" modified="2024-03-11T13:30:32.800635Z" visited="2024-03-11T13:30:32.800631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:30:32.800631Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-51-18.png" added="2024-03-11T13:51:18.223209Z" modified="2024-03-11T13:51:18.223212Z" visited="2024-03-11T13:51:18.223210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:51:18.223210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-58-14.png" added="2024-03-11T13:58:14.042607Z" modified="2024-03-11T13:58:14.042611Z" visited="2024-03-11T13:58:14.042608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:58:14.042609Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-59-06.png" added="2024-03-11T13:59:06.939813Z" modified="2024-03-11T13:59:06.939816Z" visited="2024-03-11T13:59:06.939814Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:59:06.939814Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/srgubayjdullina/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-03-11%2016-59-16.png" added="2024-03-11T13:59:16.878675Z" modified="2024-03-11T13:59:16.878678Z" visited="2024-03-11T13:59:16.878676Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-03-11T13:59:16.878676Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

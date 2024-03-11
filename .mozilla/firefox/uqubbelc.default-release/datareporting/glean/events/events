@@ -1,0 +1,4 @@
+{"timestamp":14014175,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":14015964,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":14019430,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":14019432,"category":"nimbus_events","name":"is_ready"}
